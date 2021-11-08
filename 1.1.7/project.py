@@ -1,0 +1,13 @@
+print("MADLIB GENERATOR")
+a = input("A Food or Silly Word: ")
+b = input("Profession/Job: ")
+c = input("Adjective: ")
+d = input("Phrase/Lyrics/Saying: ")
+e = input("Animal: ")
+f = input("Verb: ")
+g = input("Place: ")
+h = input("Celebrity: ")
+i = input("Something you would buy: ")
+j = input("Things (plural): ")
+
+print("Hi my name is " + h + ", but my friends call me " + c + " " + a + ". My favorite color is the color of " + j + " and my favorite thing to do is " + f + ". My parents were a " + e + " and " + b + ", which is why we lived in " + g + ". You probably know me from my TV commercial for " + i + ". I'm the one who says, '" + d + "' at the very end!")
